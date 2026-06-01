@@ -1,0 +1,154 @@
+{
+  "Heroes": [
+    {
+      "HealthPoints": 50,
+      "Speed": 1,
+      "Inventory": [
+        "Banana"
+      ],
+      "Id": "3864db51-c0f2-4a00-a63f-c5a2057c1b61",
+      "X": 265,
+      "Y": 310,
+      "FillColor": {
+        "R": 0,
+        "G": 128,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Green"
+      },
+      "Durability": 100,
+      "IsBroken": false
+    }
+  ],
+  "Walls": [
+    {
+      "Width": 200,
+      "Height": 50,
+      "Id": "b73d8913-c331-46de-bb51-0a4a64412686",
+      "X": 399,
+      "Y": 249,
+      "FillColor": {
+        "R": 128,
+        "G": 128,
+        "B": 128,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Gray"
+      },
+      "Durability": 1000,
+      "IsBroken": false
+    },
+    {
+      "Width": 50,
+      "Height": 100,
+      "Id": "7f0f0046-e897-4643-88bf-6631f98bbbba",
+      "X": 491,
+      "Y": 335,
+      "FillColor": {
+        "R": 128,
+        "G": 128,
+        "B": 128,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Gray"
+      },
+      "Durability": 1000,
+      "IsBroken": false
+    },
+    {
+      "Width": 150,
+      "Height": 50,
+      "Id": "62cb3352-5c5b-497d-b269-7b3f29f8986b",
+      "X": 382,
+      "Y": 390,
+      "FillColor": {
+        "R": 128,
+        "G": 128,
+        "B": 128,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Gray"
+      },
+      "Durability": 1000,
+      "IsBroken": false
+    },
+    {
+      "Width": 60,
+      "Height": 60,
+      "Id": "2e64b666-a409-4b90-856c-763a74d214a4",
+      "X": 265,
+      "Y": 382,
+      "FillColor": {
+        "R": 128,
+        "G": 128,
+        "B": 128,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Gray"
+      },
+      "Durability": 1000,
+      "IsBroken": false
+    }
+  ],
+  "Traps": [
+    {
+      "Damage": 10,
+      "ActivationRadius": 150,
+      "Id": "26dbaabb-f878-412a-9e43-726b9dcd0696",
+      "X": 381,
+      "Y": 329,
+      "FillColor": {
+        "R": 255,
+        "G": 0,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Red"
+      },
+      "Durability": 0,
+      "IsBroken": true
+    }
+  ],
+  "Chests": [
+    {
+      "RewardItem": "Banana",
+      "IsOpened": true,
+      "ActivationRadius": 30,
+      "Id": "1d0d41d9-894d-4871-8426-8a66b5e6bbc2",
+      "X": 423,
+      "Y": 333,
+      "FillColor": {
+        "R": 255,
+        "G": 215,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Gold"
+      },
+      "Durability": 100,
+      "IsBroken": false
+    }
+  ]
+}

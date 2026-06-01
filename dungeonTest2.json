@@ -1,0 +1,52 @@
+{
+  "Heroes": [
+    {
+      "HealthPoints": 100,
+      "Speed": 1,
+      "Inventory": [
+        "Gold"
+      ],
+      "Id": "3d104f08-dfc3-4261-8ffe-c011ca4572fc",
+      "X": 405,
+      "Y": 300,
+      "FillColor": {
+        "R": 0,
+        "G": 128,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Green"
+      },
+      "Durability": 100,
+      "IsBroken": false
+    }
+  ],
+  "Walls": [],
+  "Traps": [],
+  "Chests": [
+    {
+      "RewardItem": "Gold",
+      "IsOpened": true,
+      "ActivationRadius": 30,
+      "Id": "2b970fad-8ee3-47f5-9d01-126a8616df8a",
+      "X": 300,
+      "Y": 300,
+      "FillColor": {
+        "R": 255,
+        "G": 215,
+        "B": 0,
+        "A": 255,
+        "IsKnownColor": true,
+        "IsEmpty": false,
+        "IsNamedColor": true,
+        "IsSystemColor": false,
+        "Name": "Gold"
+      },
+      "Durability": 100,
+      "IsBroken": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "architectSteps", "architectSteps.csproj", "{27DF34BA-4719-15A1-5C2E-DB662B01D20B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectDungeon.Core", "ArchitectDungeon.Core\ArchitectDungeon.Core.csproj", "{24A4E8CE-B1D2-4CAB-915F-9DC03B808C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27DF34BA-4719-15A1-5C2E-DB662B01D20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27DF34BA-4719-15A1-5C2E-DB662B01D20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27DF34BA-4719-15A1-5C2E-DB662B01D20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27DF34BA-4719-15A1-5C2E-DB662B01D20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A4E8CE-B1D2-4CAB-915F-9DC03B808C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A4E8CE-B1D2-4CAB-915F-9DC03B808C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A4E8CE-B1D2-4CAB-915F-9DC03B808C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A4E8CE-B1D2-4CAB-915F-9DC03B808C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2362457-DA98-4D2E-8201-C0B48B1464F1}
+	EndGlobalSection
+EndGlobal
