@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace architectSteps
+namespace DungeonArchitect
 {
     static class Program
     {

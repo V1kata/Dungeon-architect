@@ -1,8 +1,8 @@
 using System.Drawing;
 using System.Drawing.Drawing2D;
-using architectSteps;
+using DungeonArchitect;
 
-namespace architectSteps
+namespace DungeonArchitect
 {
     public class DungeonRenderer
     {

@@ -1,7 +1,7 @@
 using System;
 using System.Drawing;
 
-namespace architectSteps
+namespace DungeonArchitect
 {
     public class Wall : DungeonElement
     {

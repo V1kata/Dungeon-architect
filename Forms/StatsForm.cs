@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace architectSteps
+namespace DungeonArchitect
 {
     public class StatsForm : Form
     {

@@ -2,7 +2,7 @@
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "architectSteps", "architectSteps.csproj", "{27DF34BA-4719-15A1-5C2E-DB662B01D20B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonArchitect", "DungeonArchitect.csproj", "{27DF34BA-4719-15A1-5C2E-DB662B01D20B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectDungeon.Core", "ArchitectDungeon.Core\ArchitectDungeon.Core.csproj", "{24A4E8CE-B1D2-4CAB-915F-9DC03B808C25}"
 EndProject

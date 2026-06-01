@@ -2,7 +2,7 @@ using System;
 using System.Drawing;
 using System.Text.Json.Serialization;
 
-namespace architectSteps
+namespace DungeonArchitect
 {
     public abstract class DungeonElement
     {

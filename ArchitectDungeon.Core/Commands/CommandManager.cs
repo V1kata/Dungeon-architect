@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace architectSteps
+namespace DungeonArchitect
 {
     public class CommandManager
     {

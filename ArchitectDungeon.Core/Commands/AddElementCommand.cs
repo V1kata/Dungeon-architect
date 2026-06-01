@@ -1,4 +1,4 @@
-namespace architectSteps.Commands
+namespace DungeonArchitect.Commands
 {
     public class AddElementCommand : ICommand
     {

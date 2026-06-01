@@ -52,7 +52,7 @@ Dungeon Architect is a Windows Forms application for designing and testing dunge
    ```
 5. Run the application:
    ```bash
-   dotnet run --project architectSteps.csproj
+   dotnet run --project DungeonArchitect.csproj
    ```
 
 ## Configuration
@@ -60,9 +60,9 @@ Dungeon Architect is a Windows Forms application for designing and testing dunge
 ### Project Structure
 
 ```
-architectSteps/
-├── architectSteps.csproj          # Main application project
-├── architectSteps.sln             # Solution file
+DungeonArchitect/
+├── DungeonArchitect.csproj        # Main application project
+├── DungeonArchitect.sln           # Solution file
 ├── Program.cs                     # Application entry point
 ├── DungeonRenderer.cs             # Rendering logic
 ├── Forms/                         # Windows Forms UI

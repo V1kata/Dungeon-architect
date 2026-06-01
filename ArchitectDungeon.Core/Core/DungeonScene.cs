@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 
-namespace architectSteps
+namespace DungeonArchitect
 {
     public class DungeonScene
     {

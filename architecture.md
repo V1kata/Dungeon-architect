@@ -9,7 +9,7 @@ This is a separate class library that contains all the non-visual business logic
 * **Commands (`Commands/`)**: Implements the **Command Pattern** (`ICommand`, `AddElementCommand`, `MoveElementCommand`) along with the `CommandManager` to provide robust Undo and Redo functionality.
 * **Services**: The `FileStorageService` handles saving and loading the `DungeonScene` state to and from JSON files.
 
-## 2. Windows Forms UI (`architectSteps`)
+## 2. Windows Forms UI (`DungeonArchitect`)
 This is the executable application that the user interacts with. It references the Core library to manipulate the underlying data.
 * **Forms (`Forms/`)**: Contains the UI windows like `MainForm`, `StatsForm`, and various editors (`TrapEditorForm`, etc.). It captures user input (mouse clicks, key presses) and translates them into actions or commands on the `DungeonScene`.
 * **Rendering**: The `DungeonRenderer` class handles the graphics drawing, taking the state from `DungeonScene` and rendering it onto a `Panel` canvas using `System.Drawing` (GDI+).

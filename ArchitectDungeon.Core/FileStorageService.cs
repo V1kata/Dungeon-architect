@@ -2,7 +2,7 @@ using System.IO;
 using System.Linq;
 using System.Text.Json;
 
-namespace architectSteps
+namespace DungeonArchitect
 {
     public class FileStorageService
     {

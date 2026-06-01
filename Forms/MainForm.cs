@@ -2,9 +2,9 @@ using System;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
-using architectSteps.Commands;
+using DungeonArchitect.Commands;
 
-namespace architectSteps
+namespace DungeonArchitect
 {
     public partial class MainForm : Form
     {

@@ -1,4 +1,4 @@
-namespace architectSteps
+namespace DungeonArchitect
 {
     public interface ICommand
     {

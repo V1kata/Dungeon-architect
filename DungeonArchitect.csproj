@@ -2,8 +2,8 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net8.0-windows</TargetFramework>
-    <RootNamespace>architectSteps</RootNamespace>
-    <AssemblyName>architectSteps</AssemblyName>
+    <RootNamespace>DungeonArchitect</RootNamespace>
+    <AssemblyName>DungeonArchitect</AssemblyName>
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
     <UseWindowsForms>true</UseWindowsForms>

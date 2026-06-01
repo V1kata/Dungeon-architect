@@ -1,6 +1,6 @@
 using System.Drawing;
 
-namespace architectSteps.Commands
+namespace DungeonArchitect.Commands
 {
     public class MoveElementCommand : ICommand
     {
